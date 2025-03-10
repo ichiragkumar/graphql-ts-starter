@@ -1,4 +1,3 @@
-Here are **20 GraphQL routes** (queries and mutations) you can implement for a **Book Management API** in TypeScript with GraphQL:
 
 ---
 
